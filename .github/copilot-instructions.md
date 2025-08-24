@@ -1,7 +1,34 @@
+<!--
+Copyright (c) 2024 AI Processing Layer Project
+Repository: https://github.com/mupoese/ai-processing-layer/
+Licensed under the Apache License, Version 2.0
+-->
+
 # AI Processing Layer
 AI Processing Layer is a system designed to handle AI/ML workflows, data processing, and model inference. This repository provides the core processing infrastructure for AI operations.
 
 Always reference these instructions first and fallback to search or bash commands only when you encounter unexpected information that does not match the info here.
+
+## Project Documentation and Policies
+
+### Legal and Licensing Information
+- **License**: This project is licensed under the Apache License 2.0. See [LICENSE.md](../LICENSE.md) for full license terms and copyright information.
+- **Original License File**: [LICENSE](../LICENSE) contains the standard Apache 2.0 license text.
+
+### Security and Privacy
+- **Security Policy**: Review [SECURITY.md](../SECURITY.md) for security vulnerability reporting procedures, supported versions, and AI-specific security best practices.
+- **Privacy Policy**: See [Privacy.md](../Privacy.md) for data handling principles, developer responsibilities, and compliance guidance for AI systems.
+
+### Terms and Usage
+- **Terms of Use**: Review [Terms.md](../Terms.md) for permitted/prohibited uses, AI-specific terms, and legal requirements when using this software.
+
+### Development Requirements
+All code contributions must:
+- Include proper copyright headers referencing the Apache License 2.0
+- Follow security best practices outlined in SECURITY.md
+- Comply with data handling principles in Privacy.md
+- Adhere to usage terms specified in Terms.md
+- Reference the canonical repository: https://github.com/mupoese/ai-processing-layer/
 
 ## Working Effectively
 

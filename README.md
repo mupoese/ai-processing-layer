@@ -1,3 +1,9 @@
+<!--
+Copyright (c) 2024 AI Processing Layer Project
+Repository: https://github.com/mupoese/ai-processing-layer/
+Licensed under the Apache License, Version 2.0
+-->
+
 # AI Processing Layer
 
 A powerful communication layer designed for AI-to-AI interaction with minimal token usage, built for web-based systems with multiple AI agents.
@@ -219,7 +225,16 @@ Minimize token usage in text communication:
 
 ## License
 
-MIT
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
+
+**Copyright (c) 2024 AI Processing Layer Project**  
+**Repository**: https://github.com/mupoese/ai-processing-layer/
+
+### Additional Documentation
+
+- [Security Policy](SECURITY.md) - Security guidelines and vulnerability reporting
+- [Privacy Policy](Privacy.md) - Privacy and data handling information  
+- [Terms of Use](Terms.md) - Terms and conditions for using this software
 
 ## Contributing
 
