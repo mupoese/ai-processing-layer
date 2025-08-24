@@ -1,3 +1,9 @@
+<!--
+Copyright (c) 2024 AI Processing Layer Project
+Repository: https://github.com/mupoese/ai-processing-layer/
+Licensed under the Apache License, Version 2.0
+-->
+
 # AI Processing Layer
 AI Processing Layer is a system designed to handle AI/ML workflows, data processing, and model inference. This repository provides the core processing infrastructure for AI operations.
 
